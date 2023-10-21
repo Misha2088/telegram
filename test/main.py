@@ -7,7 +7,7 @@ import sqlite3
 bot = telebot.TeleBot('6713837229:AAEXyNIwL5m3-idVP4lnhbgv5OgZ8tc_rkE')
 name = ''
 
-
+print('Пошел нахуй')
 
 @bot.message_handler(commands=['start'])
 def start(message):
