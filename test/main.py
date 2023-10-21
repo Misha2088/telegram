@@ -9,6 +9,8 @@ name = ''
 
 print('kejf')
 
+
+print('fsifjwofjqpjwfwfpwnfpwfw')
 @bot.message_handler(commands=['start'])
 def start(message):
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True, row_width=1)
