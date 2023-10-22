@@ -10,7 +10,7 @@ name = ''
 print('kejf')
 
 
-print('fsifjwofjqpjwfwfpwnfpwfw')
+print('fsifjwofjqpjwfwopvdonmbvdn bsn ipnvipsnvilsdnvisdnvop;solvcmsaovcnasol;vcmasldmvcnsdn cvklsdn vklsdn kclasnlkcsnclsnvcsdnvc klsdnv lksdnv ksdnv ksdn vklnwfw')
 @bot.message_handler(commands=['start'])
 def start(message):
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True, row_width=1)
